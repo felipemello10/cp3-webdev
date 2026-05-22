@@ -58,10 +58,10 @@ renderizarProdutos();
 
 const carrinho = [
   { nome: "Ducati Panigale V4", preco: 89900, qtd: 1 },
-  { nome: "Kawasaki Ninja e-1", preco: 45900, qtd: 1 },
-  { nome: "Honda CB 650R Electric", preco: 52000, qtd: 2 },
-  { nome: "Honda Hornet EV", preco: 48500, qtd: 1 },
-  { nome: "Vespa Elettrica", preco: 32000, qtd: 1 }
+  { nome: "Kawasaki Ninja", preco: 45900, qtd: 1 },
+  { nome: "Honda CB 650R", preco: 52000, qtd: 1 },
+  { nome: "Honda Hornet", preco: 48500, qtd: 1 },
+  { nome: "Vespa", preco: 32000, qtd: 1 }
 ];
 
 function renderizarCarrinho() {
