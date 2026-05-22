@@ -2,7 +2,7 @@
 const produtos = [
   {
     nome: "Ducati Panigale V4",
-    descricao: "A superbike italiana mais potente.",
+    descricao: "A superbike italiana em uma versão ainda mais potente.",
     preco: 89900,
     img:"./src/assets/ducati2.webp"
   },
